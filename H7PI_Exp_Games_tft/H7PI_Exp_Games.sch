@@ -1866,4 +1866,6 @@ Text Label 6900 5525 0    50   ~ 0
 VBUS
 Text Label 10950 2300 2    50   ~ 0
 TFT_BL
+NoConn ~ 8250 2100
+NoConn ~ 9100 2100
 $EndSCHEMATC
