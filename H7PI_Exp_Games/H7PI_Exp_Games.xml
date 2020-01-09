@@ -1,0 +1,1778 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>D:\dev\H7PI_Exp_Games\H7PI_Exp_Games\H7PI_Exp_Games.sch</source>
+    <date>2019/11/30 11:18:32</date>
+    <tool>Eeschema (5.1.4)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>H7PI_Exp_Games</title>
+        <company>HTCTEK</company>
+        <rev>0.1</rev>
+        <date>2019-11-28</date>
+        <source>H7PI_Exp_Games.sch</source>
+        <comment number="1" value="fuhua.chen"/>
+        <comment number="2" value="fuhua.chen"/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="K1">
+      <value>KAN0741-0601M1</value>
+      <footprint>Pinno:Switch_GANGYUAN_KAN0741-0601M1_TACT-SWITCH_8P_7.5x7.5x6mm</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20180622/C231736_C40E8A7F0DFD9513CCEA13BFEB749FF8.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">GANGYUAN(港源)</field>
+        <field name="PartNumber">KAN0741-0601M1</field>
+        <field name="Sku">C231736</field>
+        <field name="Supplier">https://item.szlcsc.com/231562.html</field>
+      </fields>
+      <libsource lib="switch" part="KAN0741-0601M1" description="Tact Switch,5 directions,五向按键"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDF5F42</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>100nF</value>
+      <footprint>C_0402_1005Metric</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20170923/C110251_1506149246168988310.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Fenghua</field>
+        <field name="PartNumber">0402B104K500NT</field>
+        <field name="Sku">C110251</field>
+        <field name="Supplier">https://item.szlcsc.com/111473.html</field>
+      </fields>
+      <libsource lib="capacitor" part="0402B104K500NT" description="Fenghua Ceramic Capacitor,100nF,10%,50V,X7R,0402"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDFAF72</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>100nF</value>
+      <footprint>C_0402_1005Metric</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20170923/C110251_1506149246168988310.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Fenghua</field>
+        <field name="PartNumber">0402B104K500NT</field>
+        <field name="Sku">C110251</field>
+        <field name="Supplier">https://item.szlcsc.com/111473.html</field>
+      </fields>
+      <libsource lib="capacitor" part="0402B104K500NT" description="Fenghua Ceramic Capacitor,100nF,10%,50V,X7R,0402"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDFB83C</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>100nF</value>
+      <footprint>C_0402_1005Metric</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20170923/C110251_1506149246168988310.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Fenghua</field>
+        <field name="PartNumber">0402B104K500NT</field>
+        <field name="Sku">C110251</field>
+        <field name="Supplier">https://item.szlcsc.com/111473.html</field>
+      </fields>
+      <libsource lib="capacitor" part="0402B104K500NT" description="Fenghua Ceramic Capacitor,100nF,10%,50V,X7R,0402"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDFBAC5</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>100nF</value>
+      <footprint>C_0402_1005Metric</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20170923/C110251_1506149246168988310.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Fenghua</field>
+        <field name="PartNumber">0402B104K500NT</field>
+        <field name="Sku">C110251</field>
+        <field name="Supplier">https://item.szlcsc.com/111473.html</field>
+      </fields>
+      <libsource lib="capacitor" part="0402B104K500NT" description="Fenghua Ceramic Capacitor,100nF,10%,50V,X7R,0402"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDFBEBF</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>100nF</value>
+      <footprint>C_0402_1005Metric</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20170923/C110251_1506149246168988310.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Fenghua</field>
+        <field name="PartNumber">0402B104K500NT</field>
+        <field name="Sku">C110251</field>
+        <field name="Supplier">https://item.szlcsc.com/111473.html</field>
+      </fields>
+      <libsource lib="capacitor" part="0402B104K500NT" description="Fenghua Ceramic Capacitor,100nF,10%,50V,X7R,0402"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDFC2B9</tstamp>
+    </comp>
+    <comp ref="U6">
+      <value>ICM-20648</value>
+      <footprint>QFN-24-1EP_3x3mm_P0.4mm_EP1.75x1.6mm</footprint>
+      <datasheet>https://www.mouser.cn/datasheet/2/400/DS-000179-ICM-20648-v1.1-TYP-1112733.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">TDK InvenSense</field>
+        <field name="PartNumber">ICM-20648</field>
+        <field name="Sku">410-ICM-20648</field>
+        <field name="Supplier">https://www.mouser.cn/ProductDetail/TDK-InvenSense/ICM-20648?qs=sGAEpiMZZMve4%2FbfQkoj%252BKKHwn4t5Espr2KKI46AEBE%3D</field>
+      </fields>
+      <libsource lib="sensor" part="ICM-20648" description="IMU-惯性测量单元 DMP-Enabled 6-Axis Integrated Solution for Wrist-Worn Wearable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE0C745</tstamp>
+    </comp>
+    <comp ref="U8">
+      <value>OLED_WhiteFont_1.3Inch_128x64Pixels_35.8x17.1mm</value>
+      <footprint>OLED_1.3Inch_128x64Pixels_35.8x17.1x1.43mm</footprint>
+      <datasheet>https://gitee.com/Pinno/kicad-lib/raw/master/datasheet/1.30%E5%AF%B8%E7%AB%96%E5%B1%8F-SPEC%20UG-6428TSWOG01%20VER%20A(h13p.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">GoldenMorning(金逸晨电子)</field>
+        <field name="PartNumber">GM-6428TSWOG01</field>
+        <field name="Sku">None</field>
+        <field name="Supplier">https://item.taobao.com/item.htm?id=599216709241&amp;_u=s2070nj8jfc7f6</field>
+      </fields>
+      <libsource lib="display" part="OLED_WhiteFont_1.3Inch_128x64Pixels_35.8x17.1mm" description="OLED Screen,white font,1.3 Inch, 128x64 pixels, SH1107"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE25223</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>510k</value>
+      <footprint>R_0402_1005Metric</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20170920/C11616_1505886996258979649.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">UniOhm</field>
+        <field name="PartNumber">0402WGF5103TCE</field>
+        <field name="Sku">C11616</field>
+        <field name="Supplier">https://item.szlcsc.com/12170.html</field>
+      </fields>
+      <libsource lib="resistor" part="0402WGF5103TCE" description="UniOhm Chip Resistor,510k,1%,0402"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DEB4F6B</tstamp>
+    </comp>
+    <comp ref="C21">
+      <value>1uF</value>
+      <footprint>C_0603_1608Metric</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20170923/C90540_1506149560830988967.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Fenghua</field>
+        <field name="PartNumber">0603B105K500NT</field>
+        <field name="Sku"> C90540</field>
+        <field name="Supplier">https://item.szlcsc.com/91727.html</field>
+      </fields>
+      <libsource lib="capacitor" part="0603B105K500NT" description="Fenghua Ceramic Capacitor,1uF,10%,50V,X7R,0603"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DEE87AA</tstamp>
+    </comp>
+    <comp ref="U7">
+      <value>MT3608</value>
+      <footprint>SOT-23-6</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20161110/1478743351706.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Aerosemi</field>
+        <field name="PartNumber">MT3608</field>
+        <field name="Sku">C84817</field>
+        <field name="Supplier">https://item.szlcsc.com/85988.html</field>
+      </fields>
+      <libsource lib="pmic" part="MT3608" description="AEROSEMI;MT3608;The MT3608 is a constant frequency, 6-pin SOT23 package."/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF0566F</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>1N5819WS</value>
+      <footprint>D_SOD-323</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20180614/C191023_3C6A6398B911F3A4C23E7538EE054643.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Hottech(合科泰)</field>
+        <field name="PartNumber">1N5819WS</field>
+        <field name="Sku">C191023</field>
+        <field name="Supplier">https://item.szlcsc.com/213850.html</field>
+      </fields>
+      <libsource lib="diode" part="1N5819WS" description="The 1N5819WS 40V 1A Schottky Diodes"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF06D4B</tstamp>
+    </comp>
+    <comp ref="C16">
+      <value>1uF</value>
+      <footprint>C_0603_1608Metric</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20170923/C90540_1506149560830988967.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Fenghua</field>
+        <field name="PartNumber">0603B105K500NT</field>
+        <field name="Sku"> C90540</field>
+        <field name="Supplier">https://item.szlcsc.com/91727.html</field>
+      </fields>
+      <libsource lib="capacitor" part="0603B105K500NT" description="Fenghua Ceramic Capacitor,1uF,10%,50V,X7R,0603"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF3CDE3</tstamp>
+    </comp>
+    <comp ref="C18">
+      <value>100nF</value>
+      <footprint>C_0402_1005Metric</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20170923/C110251_1506149246168988310.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Fenghua</field>
+        <field name="PartNumber">0402B104K500NT</field>
+        <field name="Sku">C110251</field>
+        <field name="Supplier">https://item.szlcsc.com/111473.html</field>
+      </fields>
+      <libsource lib="capacitor" part="0402B104K500NT" description="Fenghua Ceramic Capacitor,100nF,10%,50V,X7R,0402"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF42A7E</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>AHT10</value>
+      <footprint>Temperature_Humidity_Sensor_ASAIR_AHT10_4x5x1.6mm</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20190129/C368909_B294364A5189322D50DF5028F78C32FD.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">ASAIR(广州奥松)</field>
+        <field name="PartNumber">AHT10</field>
+        <field name="Sku">C368909</field>
+        <field name="Supplier">https://item.szlcsc.com/342946.html</field>
+      </fields>
+      <libsource lib="sensor" part="AHT10" description="AHT10，新一代温湿度传感器在尺寸与智能 方面建立了新的标准：它嵌入了适于回流焊 的双列扁平无引脚SMD 封装，底面 4 x 5mm ， 高度1.6mm。传感器输出经过标定的数字信 2号 ，标准 I C 格式。 AHT10 配有一个全新设计的 ASIC专用芯片、 一个经过改进的MEMS半导体电容式湿度传感 元件和一个标准的片上温度传感元件，其性 能已经大大提升甚至超出了前一代传感器的 可靠性水平，新一代温湿度传感器，经过改 进使其在恶劣环境下的性能更稳定。"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF511A9</tstamp>
+    </comp>
+    <comp ref="U4">
+      <value>HP203B</value>
+      <footprint>Pinno:Sensor_HP203B_HOPERF_QFN-8_3.8x3.6x1.2mm</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20171027/C138665_15090986235441065044.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">HOPERF</field>
+        <field name="PartNumber">HP203B</field>
+        <field name="Sku">C138665</field>
+        <field name="Supplier">https://so.szlcsc.com/global.html?k=HP203B</field>
+      </fields>
+      <libsource lib="sensor" part="HP203B" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF52A52</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>1uF</value>
+      <footprint>C_0603_1608Metric</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20170923/C90540_1506149560830988967.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Fenghua</field>
+        <field name="PartNumber">0603B105K500NT</field>
+        <field name="Sku"> C90540</field>
+        <field name="Supplier">https://item.szlcsc.com/91727.html</field>
+      </fields>
+      <libsource lib="capacitor" part="0603B105K500NT" description="Fenghua Ceramic Capacitor,1uF,10%,50V,X7R,0603"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF95CC5</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>1uF</value>
+      <footprint>C_0603_1608Metric</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20170923/C90540_1506149560830988967.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Fenghua</field>
+        <field name="PartNumber">0603B105K500NT</field>
+        <field name="Sku"> C90540</field>
+        <field name="Supplier">https://item.szlcsc.com/91727.html</field>
+      </fields>
+      <libsource lib="capacitor" part="0603B105K500NT" description="Fenghua Ceramic Capacitor,1uF,10%,50V,X7R,0603"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DFB3CF8</tstamp>
+    </comp>
+    <comp ref="U3">
+      <value>BH1730FVC-TR</value>
+      <footprint>LightSensor_ROHM_BH1730FVC_WSOF6_2.6X1.6X0.75mm</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20160729/1469779561620.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Rohm</field>
+        <field name="PartNumber">BH1730FVC-TR</field>
+        <field name="Sku">C79616</field>
+        <field name="Supplier">https://item.szlcsc.com/80759.html</field>
+      </fields>
+      <libsource lib="sensor" part="BH1730FVC-TR" description="BH1730FVC is a digital Ambient Light Sensor IC with I 2C bus interface. This IC is most suitable for obtaining ambient light data for adjusting LCD and backlight power of TV and mobile phone. It is capable of detecting a very wide range of illuminance."/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DFF5B9E</tstamp>
+    </comp>
+    <comp ref="L1">
+      <value>MPH201214S100MT</value>
+      <footprint>L_0805_2012Metric</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20180511/C192450_D367E2F3A262E86E340600F0454A5E72.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Sunlord(顺络)</field>
+        <field name="PartNumber">MPH201214S100MT</field>
+        <field name="Sku">C192450</field>
+        <field name="Supplier">https://item.szlcsc.com/222875.html</field>
+      </fields>
+      <libsource lib="inductor" part="MPH201214S100MT" description="Sunlord(顺络) Inductor,1A,375毫欧,0805,10uH,20%"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF12DA7</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>33k</value>
+      <footprint>R_0402_1005Metric</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20170920/C25779_1505901539281983353.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">UniOhm</field>
+        <field name="PartNumber">0402WGF3302TCE</field>
+        <field name="Sku">C25779</field>
+        <field name="Supplier">https://item.szlcsc.com/26522.html</field>
+      </fields>
+      <libsource lib="resistor" part="0402WGF3302TCE" description="UniOhm Chip Resistor,33k,1%,0402"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE2E14E</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>470k</value>
+      <footprint>R_0402_1005Metric</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20170920/C25121_1505901220704982751.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">UniOhm</field>
+        <field name="PartNumber">0402WGF470KTCE</field>
+        <field name="Sku">C25121</field>
+        <field name="Supplier">https://item.szlcsc.com/25864.html</field>
+      </fields>
+      <libsource lib="resistor" part="0402WGF470KTCE" description="UniOhm Chip Resistor,4.7Ω,1%,0402"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE2EF9E</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>MT9700</value>
+      <footprint>SOT-23-5</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20170418/1492481333031.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Aerosemi</field>
+        <field name="PartNumber">MT9700</field>
+        <field name="Sku">C89855</field>
+        <field name="Supplier">https://item.szlcsc.com/91037.html</field>
+      </fields>
+      <libsource lib="switch" part="MT9700" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DEA48EC</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>10k</value>
+      <footprint>R_0402_1005Metric</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20170920/C25744_1505901522148983320.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">UniOhm</field>
+        <field name="PartNumber">0402WGF1002TCE</field>
+        <field name="Sku">C25744</field>
+        <field name="Supplier">https://item.szlcsc.com/26487.html</field>
+      </fields>
+      <libsource lib="resistor" part="0402WGF1002TCE" description="UniOhm Chip Resistor,10k,1%,0402"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DED6E7A</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>470k</value>
+      <footprint>R_0402_1005Metric</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20170920/C25121_1505901220704982751.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">UniOhm</field>
+        <field name="PartNumber">0402WGF470KTCE</field>
+        <field name="Sku">C25121</field>
+        <field name="Supplier">https://item.szlcsc.com/25864.html</field>
+      </fields>
+      <libsource lib="resistor" part="0402WGF470KTCE" description="UniOhm Chip Resistor,4.7Ω,1%,0402"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DEF8B87</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>470k</value>
+      <footprint>R_0402_1005Metric</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20170920/C25121_1505901220704982751.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">UniOhm</field>
+        <field name="PartNumber">0402WGF470KTCE</field>
+        <field name="Sku">C25121</field>
+        <field name="Supplier">https://item.szlcsc.com/25864.html</field>
+      </fields>
+      <libsource lib="resistor" part="0402WGF470KTCE" description="UniOhm Chip Resistor,4.7Ω,1%,0402"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF05DB5</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>470k</value>
+      <footprint>R_0402_1005Metric</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20170920/C25121_1505901220704982751.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">UniOhm</field>
+        <field name="PartNumber">0402WGF470KTCE</field>
+        <field name="Sku">C25121</field>
+        <field name="Supplier">https://item.szlcsc.com/25864.html</field>
+      </fields>
+      <libsource lib="resistor" part="0402WGF470KTCE" description="UniOhm Chip Resistor,4.7Ω,1%,0402"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF0609C</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>470k</value>
+      <footprint>R_0402_1005Metric</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20170920/C25121_1505901220704982751.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">UniOhm</field>
+        <field name="PartNumber">0402WGF470KTCE</field>
+        <field name="Sku">C25121</field>
+        <field name="Supplier">https://item.szlcsc.com/25864.html</field>
+      </fields>
+      <libsource lib="resistor" part="0402WGF470KTCE" description="UniOhm Chip Resistor,4.7Ω,1%,0402"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF06255</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>470k</value>
+      <footprint>R_0402_1005Metric</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20170920/C25121_1505901220704982751.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">UniOhm</field>
+        <field name="PartNumber">0402WGF470KTCE</field>
+        <field name="Sku">C25121</field>
+        <field name="Supplier">https://item.szlcsc.com/25864.html</field>
+      </fields>
+      <libsource lib="resistor" part="0402WGF470KTCE" description="UniOhm Chip Resistor,4.7Ω,1%,0402"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF06569</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>470k</value>
+      <footprint>R_0402_1005Metric</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20170920/C25121_1505901220704982751.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">UniOhm</field>
+        <field name="PartNumber">0402WGF470KTCE</field>
+        <field name="Sku">C25121</field>
+        <field name="Supplier">https://item.szlcsc.com/25864.html</field>
+      </fields>
+      <libsource lib="resistor" part="0402WGF470KTCE" description="UniOhm Chip Resistor,4.7Ω,1%,0402"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF06BAB</tstamp>
+    </comp>
+    <comp ref="C9">
+      <value>1uF</value>
+      <footprint>C_0603_1608Metric</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20170923/C90540_1506149560830988967.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Fenghua</field>
+        <field name="PartNumber">0603B105K500NT</field>
+        <field name="Sku"> C90540</field>
+        <field name="Supplier">https://item.szlcsc.com/91727.html</field>
+      </fields>
+      <libsource lib="capacitor" part="0603B105K500NT" description="Fenghua Ceramic Capacitor,1uF,10%,50V,X7R,0603"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF4C01D</tstamp>
+    </comp>
+    <comp ref="C20">
+      <value>100nF</value>
+      <footprint>C_0402_1005Metric</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20170923/C110251_1506149246168988310.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Fenghua</field>
+        <field name="PartNumber">0402B104K500NT</field>
+        <field name="Sku">C110251</field>
+        <field name="Supplier">https://item.szlcsc.com/111473.html</field>
+      </fields>
+      <libsource lib="capacitor" part="0402B104K500NT" description="Fenghua Ceramic Capacitor,100nF,10%,50V,X7R,0402"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DFEFAAB</tstamp>
+    </comp>
+    <comp ref="C19">
+      <value>1uF</value>
+      <footprint>C_0603_1608Metric</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20170923/C90540_1506149560830988967.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Fenghua</field>
+        <field name="PartNumber">0603B105K500NT</field>
+        <field name="Sku"> C90540</field>
+        <field name="Supplier">https://item.szlcsc.com/91727.html</field>
+      </fields>
+      <libsource lib="capacitor" part="0603B105K500NT" description="Fenghua Ceramic Capacitor,1uF,10%,50V,X7R,0603"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DEE7DC1</tstamp>
+    </comp>
+    <comp ref="R18">
+      <value>470k</value>
+      <footprint>R_0402_1005Metric</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20170920/C25121_1505901220704982751.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">UniOhm</field>
+        <field name="PartNumber">0402WGF470KTCE</field>
+        <field name="Sku">C25121</field>
+        <field name="Supplier">https://item.szlcsc.com/25864.html</field>
+      </fields>
+      <libsource lib="resistor" part="0402WGF470KTCE" description="UniOhm Chip Resistor,4.7Ω,1%,0402"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E0AF78A</tstamp>
+    </comp>
+    <comp ref="U5">
+      <value>ME6215C33M5G</value>
+      <footprint>SOT-23-5</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20161013/1476322246618.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">MicrOne</field>
+        <field name="PartNumber">ME6215C33M5G</field>
+        <field name="Sku">C84119</field>
+        <field name="Supplier">https://item.szlcsc.com/85287.html</field>
+      </fields>
+      <libsource lib="pmic" part="ME6215C33M5G" description="ME6215 series are highly precise, low power consumption, high voltage, positive voltage regulators manufactured using CMOS and laser trimming technologies .The series provides large currents with a significantly small dropout voltage. The current limiter’s foldback circuit also operates as a short protect for the output current limiter and the output pin. The CE function allows the output of regulator to be turned off, resulting in greatly reduced power consumption. The ME6215 series can operate with up to 18V input."/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E19AF66</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>470k</value>
+      <footprint>R_0402_1005Metric</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20170920/C25121_1505901220704982751.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">UniOhm</field>
+        <field name="PartNumber">0402WGF470KTCE</field>
+        <field name="Sku">C25121</field>
+        <field name="Supplier">https://item.szlcsc.com/25864.html</field>
+      </fields>
+      <libsource lib="resistor" part="0402WGF470KTCE" description="UniOhm Chip Resistor,4.7Ω,1%,0402"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E1A782C</tstamp>
+    </comp>
+    <comp ref="C11">
+      <value>1uF</value>
+      <footprint>C_0603_1608Metric</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20170923/C90540_1506149560830988967.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Fenghua</field>
+        <field name="PartNumber">0603B105K500NT</field>
+        <field name="Sku"> C90540</field>
+        <field name="Supplier">https://item.szlcsc.com/91727.html</field>
+      </fields>
+      <libsource lib="capacitor" part="0603B105K500NT" description="Fenghua Ceramic Capacitor,1uF,10%,50V,X7R,0603"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E1F4CCE</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>1uF</value>
+      <footprint>C_0603_1608Metric</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20170923/C90540_1506149560830988967.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Fenghua</field>
+        <field name="PartNumber">0603B105K500NT</field>
+        <field name="Sku"> C90540</field>
+        <field name="Supplier">https://item.szlcsc.com/91727.html</field>
+      </fields>
+      <libsource lib="capacitor" part="0603B105K500NT" description="Fenghua Ceramic Capacitor,1uF,10%,50V,X7R,0603"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E208101</tstamp>
+    </comp>
+    <comp ref="C14">
+      <value>10uF</value>
+      <footprint>C_1206_3216Metric</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20161130/1480498807789.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">SAMSUNG</field>
+        <field name="PartNumber">CL31B106KBHNNNE</field>
+        <field name="Sku">C89632</field>
+        <field name="Supplier">https://item.szlcsc.com/90812.html</field>
+      </fields>
+      <libsource lib="capacitor" part="CL31B106KBHNNNE" description="SAMSUNG Ceramic Capacitor,10uF,±10%,50V,X7R,1206"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E23DECE</tstamp>
+    </comp>
+    <comp ref="C10">
+      <value>10uF</value>
+      <footprint>C_1206_3216Metric</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20161130/1480498807789.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">SAMSUNG</field>
+        <field name="PartNumber">CL31B106KBHNNNE</field>
+        <field name="Sku">C89632</field>
+        <field name="Supplier">https://item.szlcsc.com/90812.html</field>
+      </fields>
+      <libsource lib="capacitor" part="CL31B106KBHNNNE" description="SAMSUNG Ceramic Capacitor,10uF,±10%,50V,X7R,1206"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E24C294</tstamp>
+    </comp>
+    <comp ref="C13">
+      <value>100nF</value>
+      <footprint>C_0402_1005Metric</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20170923/C110251_1506149246168988310.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Fenghua</field>
+        <field name="PartNumber">0402B104K500NT</field>
+        <field name="Sku">C110251</field>
+        <field name="Supplier">https://item.szlcsc.com/111473.html</field>
+      </fields>
+      <libsource lib="capacitor" part="0402B104K500NT" description="Fenghua Ceramic Capacitor,100nF,10%,50V,X7R,0402"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E4542FD</tstamp>
+    </comp>
+    <comp ref="C12">
+      <value>100nF</value>
+      <footprint>C_0402_1005Metric</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20170923/C110251_1506149246168988310.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Fenghua</field>
+        <field name="PartNumber">0402B104K500NT</field>
+        <field name="Sku">C110251</field>
+        <field name="Supplier">https://item.szlcsc.com/111473.html</field>
+      </fields>
+      <libsource lib="capacitor" part="0402B104K500NT" description="Fenghua Ceramic Capacitor,100nF,10%,50V,X7R,0402"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E4558B0</tstamp>
+    </comp>
+    <comp ref="C15">
+      <value>100nF</value>
+      <footprint>C_0402_1005Metric</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20170923/C110251_1506149246168988310.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Fenghua</field>
+        <field name="PartNumber">0402B104K500NT</field>
+        <field name="Sku">C110251</field>
+        <field name="Supplier">https://item.szlcsc.com/111473.html</field>
+      </fields>
+      <libsource lib="capacitor" part="0402B104K500NT" description="Fenghua Ceramic Capacitor,100nF,10%,50V,X7R,0402"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E4898B7</tstamp>
+    </comp>
+    <comp ref="U9">
+      <value>CORE52</value>
+      <footprint>Module_Bluetooth_HTCTEK_CORE52_12.5X12.5X2mm</footprint>
+      <datasheet>https://item.taobao.com/item.htm?id=601376388739&amp;_u=t2bq4ml8f2f</datasheet>
+      <fields>
+        <field name="Manufacturer">HTCTEK</field>
+        <field name="PartNumber">Core52</field>
+        <field name="Sku">None</field>
+        <field name="Supplier">https://item.taobao.com/item.htm?id=601376388739&amp;_u=t2bq4ml8f2f</field>
+      </fields>
+      <libsource lib="module" part="CORE52" description="NRF52832蓝牙模块，邮票孔，BLE模块"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF65406</tstamp>
+    </comp>
+    <comp ref="C22">
+      <value>1uF</value>
+      <footprint>C_0603_1608Metric</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20170923/C90540_1506149560830988967.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Fenghua</field>
+        <field name="PartNumber">0603B105K500NT</field>
+        <field name="Sku"> C90540</field>
+        <field name="Supplier">https://item.szlcsc.com/91727.html</field>
+      </fields>
+      <libsource lib="capacitor" part="0603B105K500NT" description="Fenghua Ceramic Capacitor,1uF,10%,50V,X7R,0603"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E018442</tstamp>
+    </comp>
+    <comp ref="R24">
+      <value>470k</value>
+      <footprint>R_0402_1005Metric</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20170920/C25121_1505901220704982751.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">UniOhm</field>
+        <field name="PartNumber">0402WGF470KTCE</field>
+        <field name="Sku">C25121</field>
+        <field name="Supplier">https://item.szlcsc.com/25864.html</field>
+      </fields>
+      <libsource lib="resistor" part="0402WGF470KTCE" description="UniOhm Chip Resistor,4.7Ω,1%,0402"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E11A2B2</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>Header_1x2</value>
+      <footprint>TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm</footprint>
+      <libsource lib="connector" part="Header_1x2" description="Pin Header 1x2"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E5C5B66</tstamp>
+    </comp>
+    <comp ref="U11">
+      <value>KLJ-5018</value>
+      <footprint>Buzzer_KEILKING_KLJ-5018_5X5X1.8mm</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20180420/C201045_4E2777563ADE3D9C749EEAC4C90883E9.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">KELIKING(凯丽金)</field>
+        <field name="PartNumber">KLJ-5018</field>
+        <field name="Sku">C201045</field>
+        <field name="Supplier">https://item.szlcsc.com/202262.html</field>
+      </fields>
+      <libsource lib="buzzer" part="KLJ-5018" description="Buzzer Passive,5x5x1.8mm,SMD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E94C0FE</tstamp>
+    </comp>
+    <comp ref="Q1">
+      <value>CJ2102</value>
+      <footprint>SOT-323_SC-70</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20150504/1457707282836.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">JCET</field>
+        <field name="PartNumber">CJ2102</field>
+        <field name="Sku">C47937</field>
+        <field name="Supplier">https://item.szlcsc.com/48943.html</field>
+      </fields>
+      <libsource lib="mosfet" part="CJ2102" description="The CJ2102 N-Channel MOSFET 20V 2.1A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E94CEC9</tstamp>
+    </comp>
+    <comp ref="R26">
+      <value>470k</value>
+      <footprint>R_0402_1005Metric</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20170920/C25121_1505901220704982751.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">UniOhm</field>
+        <field name="PartNumber">0402WGF470KTCE</field>
+        <field name="Sku">C25121</field>
+        <field name="Supplier">https://item.szlcsc.com/25864.html</field>
+      </fields>
+      <libsource lib="resistor" part="0402WGF470KTCE" description="UniOhm Chip Resistor,4.7Ω,1%,0402"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E96437B</tstamp>
+    </comp>
+    <comp ref="R25">
+      <value>33k</value>
+      <footprint>R_0402_1005Metric</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20170920/C25779_1505901539281983353.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">UniOhm</field>
+        <field name="PartNumber">0402WGF3302TCE</field>
+        <field name="Sku">C25779</field>
+        <field name="Supplier">https://item.szlcsc.com/26522.html</field>
+      </fields>
+      <libsource lib="resistor" part="0402WGF3302TCE" description="UniOhm Chip Resistor,33k,1%,0402"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E9A876D</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>1N5819WS</value>
+      <footprint>D_SOD-323</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/source/20180614/C191023_3C6A6398B911F3A4C23E7538EE054643.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Hottech(合科泰)</field>
+        <field name="PartNumber">1N5819WS</field>
+        <field name="Sku">C191023</field>
+        <field name="Supplier">https://item.szlcsc.com/213850.html</field>
+      </fields>
+      <libsource lib="diode" part="1N5819WS" description="The 1N5819WS 40V 1A Schottky Diodes"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EBCD4A2</tstamp>
+    </comp>
+    <comp ref="U10">
+      <value>H7PI_Exp</value>
+      <footprint>Module_H7PI_Exp_65x30mm</footprint>
+      <datasheet>https://item.taobao.com/item.htm?ft=t&amp;id=606908438435</datasheet>
+      <fields>
+        <field name="Manufacturer">HTCTEK</field>
+        <field name="PartNumber">H7PI_EXP</field>
+        <field name="Sku">None</field>
+        <field name="Supplier">https://item.taobao.com/item.htm?ft=t&amp;id=606908438435</field>
+      </fields>
+      <libsource lib="module" part="H7PI_Exp" description="H7PI_Exp,扩展板"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDF89F9</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="buzzer" part="KLJ-5018">
+      <description>Buzzer Passive,5x5x1.8mm,SMD</description>
+      <docs>https://atta.szlcsc.com/upload/public/pdf/source/20180420/C201045_4E2777563ADE3D9C749EEAC4C90883E9.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">KLJ-5018</field>
+        <field name="Footprint">Buzzer_KEILKING_KLJ-5018_5X5X1.8mm</field>
+        <field name="Manufacturer">KELIKING(凯丽金)</field>
+        <field name="PartNumber">KLJ-5018</field>
+        <field name="Supplier">https://item.szlcsc.com/202262.html</field>
+        <field name="Sku">C201045</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="power_in"/>
+        <pin num="2" name="-" type="passive"/>
+        <pin num="3" name="~" type="NotConnected"/>
+      </pins>
+    </libpart>
+    <libpart lib="capacitor" part="0402B104K500NT">
+      <description>Fenghua Ceramic Capacitor,100nF,10%,50V,X7R,0402</description>
+      <docs>https://atta.szlcsc.com/upload/public/pdf/source/20170923/C110251_1506149246168988310.pdf</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">0402B104K500NT</field>
+        <field name="Footprint">C_0402_1005Metric</field>
+        <field name="Datasheet">https://atta.szlcsc.com/upload/public/pdf/source/20170923/C110251_1506149246168988310.pdf</field>
+        <field name="Manufacturer">Fenghua</field>
+        <field name="PartNumber">0402B104K500NT</field>
+        <field name="Supplier">https://item.szlcsc.com/111473.html</field>
+        <field name="Sku">C110251</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="capacitor" part="0603B105K500NT">
+      <description>Fenghua Ceramic Capacitor,1uF,10%,50V,X7R,0603</description>
+      <docs>https://atta.szlcsc.com/upload/public/pdf/source/20170923/C90540_1506149560830988967.pdf</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">0603B105K500NT</field>
+        <field name="Footprint">C_0603_1608Metric</field>
+        <field name="Datasheet">https://atta.szlcsc.com/upload/public/pdf/source/20170923/C90540_1506149560830988967.pdf</field>
+        <field name="Manufacturer">Fenghua</field>
+        <field name="PartNumber">0603B105K500NT</field>
+        <field name="Supplier">https://item.szlcsc.com/91727.html</field>
+        <field name="Sku"> C90540</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="capacitor" part="CL31B106KBHNNNE">
+      <description>SAMSUNG Ceramic Capacitor,10uF,±10%,50V,X7R,1206</description>
+      <docs>https://atta.szlcsc.com/upload/public/pdf/source/20161130/1480498807789.pdf</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CL31B106KBHNNNE</field>
+        <field name="Footprint">C_1206_3216Metric</field>
+        <field name="Datasheet">https://atta.szlcsc.com/upload/public/pdf/source/20161130/1480498807789.pdf</field>
+        <field name="Manufacturer">SAMSUNG</field>
+        <field name="PartNumber">CL31B106KBHNNNE</field>
+        <field name="Supplier">https://item.szlcsc.com/90812.html</field>
+        <field name="Sku">C89632</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="connector" part="Header_1x2">
+      <description>Pin Header 1x2</description>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Header_1x2</field>
+        <field name="Footprint">PinHeader_1x02_P2.54mm_Vertical</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="diode" part="1N5819WS">
+      <description>The 1N5819WS 40V 1A Schottky Diodes</description>
+      <docs>https://atta.szlcsc.com/upload/public/pdf/source/20180614/C191023_3C6A6398B911F3A4C23E7538EE054643.pdf</docs>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N5819WS</field>
+        <field name="Footprint">D_SOD-323</field>
+        <field name="Manufacturer">Hottech(合科泰)</field>
+        <field name="PartNumber">1N5819WS</field>
+        <field name="Supplier">https://item.szlcsc.com/213850.html</field>
+        <field name="Sku">C191023</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="display" part="OLED_WhiteFont_1.3Inch_128x64Pixels_35.8x17.1mm">
+      <description>OLED Screen,white font,1.3 Inch, 128x64 pixels, SH1107</description>
+      <docs>https://gitee.com/Pinno/kicad-lib/raw/master/datasheet/1.30%E5%AF%B8%E7%AB%96%E5%B1%8F-SPEC%20UG-6428TSWOG01%20VER%20A(h13p.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">OLED_WhiteFont_1.3Inch_128x64Pixels_35.8x17.1mm</field>
+        <field name="Footprint">OLED_1.3Inch_128x64Pixels_35.8x17.1x1.43mm</field>
+        <field name="Manufacturer">GoldenMorning(金逸晨电子)</field>
+        <field name="PartNumber">GM-6428TSWOG01</field>
+        <field name="Supplier">https://item.taobao.com/item.htm?id=599216709241&amp;_u=s2070nj8jfc7f6</field>
+        <field name="Sku">None</field>
+      </fields>
+      <pins>
+        <pin num="1" name="NC" type="NotConnected"/>
+        <pin num="2" name="VPP" type="passive"/>
+        <pin num="3" name="VCOMH" type="passive"/>
+        <pin num="4" name="VDD" type="passive"/>
+        <pin num="5" name="IM1" type="passive"/>
+        <pin num="6" name="IREF" type="passive"/>
+        <pin num="7" name="CS" type="passive"/>
+        <pin num="8" name="RES" type="passive"/>
+        <pin num="9" name="DC" type="passive"/>
+        <pin num="10" name="D0" type="passive"/>
+        <pin num="11" name="D1" type="passive"/>
+        <pin num="12" name="VSS" type="passive"/>
+        <pin num="13" name="NC" type="NotConnected"/>
+      </pins>
+    </libpart>
+    <libpart lib="inductor" part="MPH201214S100MT">
+      <description>Sunlord(顺络) Inductor,1A,375毫欧,0805,10uH,20%</description>
+      <docs>https://atta.szlcsc.com/upload/public/pdf/source/20180511/C192450_D367E2F3A262E86E340600F0454A5E72.pdf</docs>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">MPH201214S100MT</field>
+        <field name="Footprint">L_0805_2012Metric</field>
+        <field name="Datasheet">https://atta.szlcsc.com/upload/public/pdf/source/20180511/C192450_D367E2F3A262E86E340600F0454A5E72.pdf</field>
+        <field name="Manufacturer">Sunlord(顺络)</field>
+        <field name="PartNumber">MPH201214S100MT</field>
+        <field name="Supplier">https://item.szlcsc.com/222875.html</field>
+        <field name="Sku">C192450</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="module" part="CORE52">
+      <description>NRF52832蓝牙模块，邮票孔，BLE模块</description>
+      <docs>https://item.taobao.com/item.htm?id=601376388739&amp;_u=t2bq4ml8f2f</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CORE52</field>
+        <field name="Footprint">Module_Bluetooth_HTCTEK_CORE52_12.5X12.5X2mm</field>
+        <field name="Manufacturer">HTCTEK</field>
+        <field name="PartNumber">Core52</field>
+        <field name="Supplier">https://item.taobao.com/item.htm?id=601376388739&amp;_u=t2bq4ml8f2f</field>
+        <field name="Sku">None</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P0.00" type="input"/>
+        <pin num="2" name="P0.01" type="input"/>
+        <pin num="3" name="P0.02" type="input"/>
+        <pin num="4" name="P0.03" type="input"/>
+        <pin num="5" name="P0.04" type="BiDi"/>
+        <pin num="6" name="P0.05" type="BiDi"/>
+        <pin num="7" name="P0.06" type="BiDi"/>
+        <pin num="8" name="P0.08" type="BiDi"/>
+        <pin num="9" name="P0.10" type="BiDi"/>
+        <pin num="10" name="P0.09" type="BiDi"/>
+        <pin num="11" name="P0.21" type="BiDi"/>
+        <pin num="12" name="SWDIO" type="BiDi"/>
+        <pin num="13" name="SWDCLK" type="output"/>
+        <pin num="14" name="ANT" type="output"/>
+        <pin num="15" name="GND" type="power_in"/>
+        <pin num="16" name="P0.25" type="BiDi"/>
+        <pin num="17" name="P0.26" type="output"/>
+        <pin num="18" name="P0.28" type="BiDi"/>
+        <pin num="19" name="P0.29" type="BiDi"/>
+        <pin num="20" name="P0.30" type="BiDi"/>
+        <pin num="21" name="P0.31" type="BiDi"/>
+        <pin num="22" name="GND" type="power_in"/>
+        <pin num="23" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="module" part="H7PI_Exp">
+      <description>H7PI_Exp,扩展板</description>
+      <docs>https://item.taobao.com/item.htm?ft=t&amp;id=606908438435</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">H7PI_Exp</field>
+        <field name="Footprint">Module_H7PI_Exp_65x30mm</field>
+        <field name="Manufacturer">HTCTEK</field>
+        <field name="PartNumber">H7PI_EXP</field>
+        <field name="Supplier">https://item.taobao.com/item.htm?ft=t&amp;id=606908438435</field>
+        <field name="Sku">None</field>
+      </fields>
+      <pins>
+        <pin num="1" name="3V3" type="passive"/>
+        <pin num="2" name="VBUS" type="passive"/>
+        <pin num="3" name="IO1/PD10" type="passive"/>
+        <pin num="4" name="IO16/PE1" type="passive"/>
+        <pin num="5" name="IO2/PD13" type="passive"/>
+        <pin num="6" name="IO15/PE0" type="passive"/>
+        <pin num="7" name="IO3/PA8" type="passive"/>
+        <pin num="8" name="IO14/PB8" type="passive"/>
+        <pin num="9" name="IO4/PA13" type="passive"/>
+        <pin num="10" name="IO13/PB5" type="passive"/>
+        <pin num="11" name="IO5/PA14" type="passive"/>
+        <pin num="12" name="IO12/PD7" type="passive"/>
+        <pin num="13" name="IO6/PA15" type="passive"/>
+        <pin num="14" name="IO11/PD6" type="passive"/>
+        <pin num="15" name="IO7/PC11" type="passive"/>
+        <pin num="16" name="IO10/PD3" type="passive"/>
+        <pin num="17" name="IO8/PC15" type="passive"/>
+        <pin num="18" name="IO9/PD2" type="passive"/>
+        <pin num="19" name="GND" type="passive"/>
+        <pin num="20" name="GND" type="passive"/>
+        <pin num="21" name="3V3" type="passive"/>
+        <pin num="22" name="VBUS" type="passive"/>
+        <pin num="23" name="SDA1/PB11" type="passive"/>
+        <pin num="24" name="VBUS" type="passive"/>
+        <pin num="25" name="SCL1/PB10" type="passive"/>
+        <pin num="26" name="GND" type="passive"/>
+        <pin num="27" name="GPIO7/PA3" type="passive"/>
+        <pin num="28" name="TXD/PA9" type="passive"/>
+        <pin num="29" name="GND" type="passive"/>
+        <pin num="30" name="RXD/PA10" type="passive"/>
+        <pin num="31" name="GPIO0/PE3" type="passive"/>
+        <pin num="32" name="GPIO1/PE4" type="passive"/>
+        <pin num="33" name="GPIO2/PE5" type="passive"/>
+        <pin num="34" name="GND" type="passive"/>
+        <pin num="35" name="GPIO3/PE6" type="passive"/>
+        <pin num="36" name="GPIO4/PC13" type="passive"/>
+        <pin num="37" name="3V3" type="passive"/>
+        <pin num="38" name="GPIO5/PC0" type="passive"/>
+        <pin num="39" name="MOSI/PE14" type="passive"/>
+        <pin num="40" name="GND" type="passive"/>
+        <pin num="41" name="MISO/PE13" type="passive"/>
+        <pin num="42" name="GPIO6/PA2" type="passive"/>
+        <pin num="43" name="SCK/PE12" type="passive"/>
+        <pin num="44" name="CE0/PE11" type="passive"/>
+        <pin num="45" name="GND" type="passive"/>
+        <pin num="46" name="CE1/PE15" type="passive"/>
+        <pin num="47" name="SDA0/PB7" type="passive"/>
+        <pin num="48" name="SCL0/PB8" type="passive"/>
+        <pin num="49" name="GPIO21/PA4" type="passive"/>
+        <pin num="50" name="GND" type="passive"/>
+        <pin num="51" name="GPIO22/PA5" type="passive"/>
+        <pin num="52" name="GPIO26/PC5" type="passive"/>
+        <pin num="53" name="GPIO23/PA6" type="passive"/>
+        <pin num="54" name="GND" type="passive"/>
+        <pin num="55" name="GPIO24/PA7" type="passive"/>
+        <pin num="56" name="GPIO27/PB0" type="passive"/>
+        <pin num="57" name="GPIO25/PC4" type="passive"/>
+        <pin num="58" name="GPIO28/PB1" type="passive"/>
+        <pin num="59" name="GND" type="passive"/>
+        <pin num="60" name="GPIO29/PD9" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="mosfet" part="CJ2102">
+      <description>The CJ2102 N-Channel MOSFET 20V 2.1A</description>
+      <docs>https://atta.szlcsc.com/upload/public/pdf/source/20150504/1457707282836.pdf</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">CJ2102</field>
+        <field name="Footprint">SOT-323_SC-70</field>
+        <field name="Datasheet">https://atta.szlcsc.com/upload/public/pdf/source/20150504/1457707282836.pdf</field>
+        <field name="Manufacturer">JCET</field>
+        <field name="PartNumber">CJ2102</field>
+        <field name="Supplier">https://item.szlcsc.com/48943.html</field>
+        <field name="Sku">C47937</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="passive"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="pmic" part="ME6215C33M5G">
+      <description>ME6215 series are highly precise, low power consumption, high voltage, positive voltage regulators manufactured using CMOS and laser trimming technologies .The series provides large currents with a significantly small dropout voltage. The current limiter’s foldback circuit also operates as a short protect for the output current limiter and the output pin. The CE function allows the output of regulator to be turned off, resulting in greatly reduced power consumption. The ME6215 series can operate with up to 18V input.</description>
+      <docs>https://atta.szlcsc.com/upload/public/pdf/source/20161013/1476322246618.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ME6215C33M5G</field>
+        <field name="Footprint">SOT-23-5</field>
+        <field name="Datasheet">https://atta.szlcsc.com/upload/public/pdf/source/20161013/1476322246618.pdf</field>
+        <field name="Manufacturer">MicrOne</field>
+        <field name="PartNumber">ME6215C33M5G</field>
+        <field name="Supplier">https://item.szlcsc.com/85287.html</field>
+        <field name="Sku">C84119</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VIN" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="CE" type="input"/>
+        <pin num="4" name="NC" type="NotConnected"/>
+        <pin num="5" name="VOUT" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="pmic" part="MT3608">
+      <description>AEROSEMI;MT3608;The MT3608 is a constant frequency, 6-pin SOT23 package.</description>
+      <docs>https://atta.szlcsc.com/upload/public/pdf/source/20161110/1478743351706.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MT3608</field>
+        <field name="Footprint">SOT-23-6</field>
+        <field name="Datasheet">https://atta.szlcsc.com/upload/public/pdf/source/20161110/1478743351706.pdf</field>
+        <field name="Manufacturer">Aerosemi</field>
+        <field name="PartNumber">MT3608</field>
+        <field name="Supplier">https://item.szlcsc.com/85988.html</field>
+        <field name="Sku">C84817</field>
+      </fields>
+      <pins>
+        <pin num="1" name="SW" type="power_out"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="FB" type="input"/>
+        <pin num="4" name="EN" type="input"/>
+        <pin num="5" name="VIN" type="power_in"/>
+        <pin num="6" name="NC" type="NotConnected"/>
+      </pins>
+    </libpart>
+    <libpart lib="resistor" part="0402WGF1002TCE">
+      <description>UniOhm Chip Resistor,10k,1%,0402</description>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">0402WGF1002TCE</field>
+        <field name="Footprint">R_0402_1005Metric</field>
+        <field name="Datasheet">https://atta.szlcsc.com/upload/public/pdf/source/20170920/C25744_1505901522148983320.pdf</field>
+        <field name="Manufacturer">UniOhm</field>
+        <field name="PartNumber">0402WGF1002TCE</field>
+        <field name="Supplier">https://item.szlcsc.com/26487.html</field>
+        <field name="Sku">C25744</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="resistor" part="0402WGF3302TCE">
+      <description>UniOhm Chip Resistor,33k,1%,0402</description>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">0402WGF3302TCE</field>
+        <field name="Footprint">R_0402_1005Metric</field>
+        <field name="Datasheet">https://atta.szlcsc.com/upload/public/pdf/source/20170920/C25779_1505901539281983353.pdf</field>
+        <field name="Manufacturer">UniOhm</field>
+        <field name="PartNumber">0402WGF3302TCE</field>
+        <field name="Supplier">https://item.szlcsc.com/26522.html</field>
+        <field name="Sku">C25779</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="resistor" part="0402WGF470KTCE">
+      <description>UniOhm Chip Resistor,4.7Ω,1%,0402</description>
+      <docs>https://atta.szlcsc.com/upload/public/pdf/source/20170920/C25121_1505901220704982751.pdf</docs>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">0402WGF470KTCE</field>
+        <field name="Footprint">R_0402_1005Metric</field>
+        <field name="Datasheet">https://atta.szlcsc.com/upload/public/pdf/source/20170920/C25121_1505901220704982751.pdf</field>
+        <field name="Manufacturer">UniOhm</field>
+        <field name="PartNumber">0402WGF470KTCE</field>
+        <field name="Supplier">https://item.szlcsc.com/25864.html</field>
+        <field name="Sku">C25121</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="resistor" part="0402WGF5103TCE">
+      <description>UniOhm Chip Resistor,510k,1%,0402</description>
+      <docs>https://atta.szlcsc.com/upload/public/pdf/source/20170920/C11616_1505886996258979649.pdf</docs>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">0402WGF5103TCE</field>
+        <field name="Footprint">R_0402_1005Metric</field>
+        <field name="Datasheet">https://atta.szlcsc.com/upload/public/pdf/source/20170920/C11616_1505886996258979649.pdf</field>
+        <field name="Manufacturer">UniOhm</field>
+        <field name="PartNumber">0402WGF5103TCE</field>
+        <field name="Supplier">https://item.szlcsc.com/12170.html</field>
+        <field name="Sku">C11616</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="sensor" part="AHT10">
+      <description>AHT10，新一代温湿度传感器在尺寸与智能 方面建立了新的标准：它嵌入了适于回流焊 的双列扁平无引脚SMD 封装，底面 4 x 5mm ， 高度1.6mm。传感器输出经过标定的数字信 2号 ，标准 I C 格式。 AHT10 配有一个全新设计的 ASIC专用芯片、 一个经过改进的MEMS半导体电容式湿度传感 元件和一个标准的片上温度传感元件，其性 能已经大大提升甚至超出了前一代传感器的 可靠性水平，新一代温湿度传感器，经过改 进使其在恶劣环境下的性能更稳定。</description>
+      <docs>https://atta.szlcsc.com/upload/public/pdf/source/20190129/C368909_B294364A5189322D50DF5028F78C32FD.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AHT10</field>
+        <field name="Footprint">Temperature_Humidity_Sensor_ASAIR_AHT10_4x5x1.6mm</field>
+        <field name="Datasheet">https://atta.szlcsc.com/upload/public/pdf/source/20190129/C368909_B294364A5189322D50DF5028F78C32FD.pdf</field>
+        <field name="Manufacturer">ASAIR(广州奥松)</field>
+        <field name="PartNumber">AHT10</field>
+        <field name="Supplier">https://item.szlcsc.com/342946.html</field>
+        <field name="Sku">C368909</field>
+      </fields>
+      <pins>
+        <pin num="1" name="ADR" type="input"/>
+        <pin num="2" name="SDA" type="BiDi"/>
+        <pin num="3" name="SCL" type="input"/>
+        <pin num="4" name="VDD" type="power_in"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="6" name="NC" type="NotConnected"/>
+      </pins>
+    </libpart>
+    <libpart lib="sensor" part="BH1730FVC-TR">
+      <description>BH1730FVC is a digital Ambient Light Sensor IC with I 2C bus interface. This IC is most suitable for obtaining ambient light data for adjusting LCD and backlight power of TV and mobile phone. It is capable of detecting a very wide range of illuminance.</description>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">BH1730FVC-TR</field>
+        <field name="Footprint">LightSensor_ROHM_BH1730FVC_WSOF6_2.6X1.6X0.75mm</field>
+        <field name="Datasheet">https://atta.szlcsc.com/upload/public/pdf/source/20160729/1469779561620.pdf</field>
+        <field name="Manufacturer">Rohm</field>
+        <field name="PartNumber">BH1730FVC-TR</field>
+        <field name="Supplier">https://item.szlcsc.com/80759.html</field>
+        <field name="Sku">C79616</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="power_in"/>
+        <pin num="2" name="INT" type="output"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="SDA" type="BiDi"/>
+        <pin num="5" name="DVI" type="power_in"/>
+        <pin num="6" name="SCL" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="sensor" part="HP203B">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">HP203B</field>
+        <field name="Footprint">footprint:Sensor_HP203B_HOPERF_QFN-8_3.8x3.6x1.2mm</field>
+        <field name="Manufacturer">HOPERF</field>
+        <field name="PartNumber">HP203B</field>
+        <field name="Supplier">https://so.szlcsc.com/global.html?k=HP203B</field>
+        <field name="Sku">C138665</field>
+      </fields>
+      <pins>
+        <pin num="1" name="INT1" type="output"/>
+        <pin num="2" name="GND" type="input"/>
+        <pin num="3" name="VDD" type="input"/>
+        <pin num="4" name="NC" type="NotConnected"/>
+        <pin num="5" name="SCL" type="input"/>
+        <pin num="6" name="SDA" type="input"/>
+        <pin num="7" name="INT0" type="output"/>
+        <pin num="8" name="CSB" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="sensor" part="ICM-20648">
+      <description>IMU-惯性测量单元 DMP-Enabled 6-Axis Integrated Solution for Wrist-Worn Wearable</description>
+      <docs>https://www.mouser.cn/datasheet/2/400/DS-000179-ICM-20648-v1.1-TYP-1112733.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ICM-20648</field>
+        <field name="Footprint">QFN-24-1EP_3x3mm_P0.4mm_EP1.75x1.6mm</field>
+        <field name="Manufacturer">TDK InvenSense</field>
+        <field name="PartNumber">ICM-20648</field>
+        <field name="Supplier">https://www.mouser.cn/ProductDetail/TDK-InvenSense/ICM-20648?qs=sGAEpiMZZMve4%2FbfQkoj%252BKKHwn4t5Espr2KKI46AEBE%3D</field>
+        <field name="Sku">410-ICM-20648</field>
+      </fields>
+      <pins>
+        <pin num="1" name="NC" type="NotConnected"/>
+        <pin num="2" name="NC" type="NotConnected"/>
+        <pin num="3" name="NC" type="NotConnected"/>
+        <pin num="4" name="NC" type="NotConnected"/>
+        <pin num="5" name="NC" type="NotConnected"/>
+        <pin num="6" name="NC" type="NotConnected"/>
+        <pin num="7" name="AUX_CL" type="output"/>
+        <pin num="8" name="VDDIO" type="power_in"/>
+        <pin num="9" name="SDO/AD0" type="passive"/>
+        <pin num="10" name="REGOUT" type="power_out"/>
+        <pin num="11" name="FSYNC" type="output"/>
+        <pin num="12" name="INT1" type="output"/>
+        <pin num="13" name="VDD" type="power_in"/>
+        <pin num="14" name="NC" type="NotConnected"/>
+        <pin num="15" name="NC" type="NotConnected"/>
+        <pin num="16" name="NC" type="NotConnected"/>
+        <pin num="17" name="NC" type="NotConnected"/>
+        <pin num="18" name="GND" type="power_in"/>
+        <pin num="19" name="INT2" type="output"/>
+        <pin num="20" name="RESV" type="passive"/>
+        <pin num="21" name="AUX_SDA" type="BiDi"/>
+        <pin num="22" name="nCS" type="input"/>
+        <pin num="23" name="SCL/SCLK" type="input"/>
+        <pin num="24" name="SDA/SDI" type="BiDi"/>
+        <pin num="25" name="PAD" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="switch" part="KAN0741-0601M1">
+      <description>Tact Switch,5 directions,五向按键</description>
+      <docs>https://atta.szlcsc.com/upload/public/pdf/source/20180622/C231736_C40E8A7F0DFD9513CCEA13BFEB749FF8.pdf</docs>
+      <fields>
+        <field name="Reference">K</field>
+        <field name="Value">KAN0741-0601M1</field>
+        <field name="Footprint">Pinno:Switch_GANGYUAN_KAN0741-0601M1_TACT-SWITCH_8P_7.5x7.5x6mm</field>
+        <field name="Manufacturer">GANGYUAN(港源)</field>
+        <field name="PartNumber">KAN0741-0601M1</field>
+        <field name="Supplier">https://item.szlcsc.com/231562.html</field>
+        <field name="Sku">C231736</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="E" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+        <pin num="4" name="B" type="passive"/>
+        <pin num="5" name="COM" type="passive"/>
+        <pin num="6" name="D" type="passive"/>
+        <pin num="MP" name="MP" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="switch" part="MT9700">
+      <docs>https://atta.szlcsc.com/upload/public/pdf/source/20170418/1492481333031.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MT9700</field>
+        <field name="Footprint">SOT-23-5</field>
+        <field name="Manufacturer">Aerosemi</field>
+        <field name="PartNumber">MT9700</field>
+        <field name="Supplier">https://item.szlcsc.com/91037.html</field>
+        <field name="Sku">C89855</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VOUT" type="power_out"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="SET" type="passive"/>
+        <pin num="4" name="EN" type="input"/>
+        <pin num="5" name="VIN" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="buzzer">
+      <uri>D:/dev/kicad-lib/pinno-lib/symbol/buzzer.lib</uri>
+    </library>
+    <library logical="capacitor">
+      <uri>D:/dev/kicad-lib/pinno-lib/symbol/capacitor.lib</uri>
+    </library>
+    <library logical="connector">
+      <uri>D:/dev/kicad-lib/pinno-lib/symbol/connector.lib</uri>
+    </library>
+    <library logical="diode">
+      <uri>D:/dev/kicad-lib/pinno-lib/symbol/diode.lib</uri>
+    </library>
+    <library logical="display">
+      <uri>D:/dev/kicad-lib/pinno-lib/symbol/display.lib</uri>
+    </library>
+    <library logical="inductor">
+      <uri>D:/dev/kicad-lib/pinno-lib/symbol/inductor.lib</uri>
+    </library>
+    <library logical="module">
+      <uri>D:/dev/kicad-lib/pinno-lib/symbol/module.lib</uri>
+    </library>
+    <library logical="mosfet">
+      <uri>D:/dev/kicad-lib/pinno-lib/symbol/mosfet.lib</uri>
+    </library>
+    <library logical="pmic">
+      <uri>D:/dev/kicad-lib/pinno-lib/symbol/pmic.lib</uri>
+    </library>
+    <library logical="resistor">
+      <uri>D:/dev/kicad-lib/pinno-lib/symbol/resistor.lib</uri>
+    </library>
+    <library logical="sensor">
+      <uri>D:/dev/kicad-lib/pinno-lib/symbol/sensor.lib</uri>
+    </library>
+    <library logical="switch">
+      <uri>D:/dev/kicad-lib/pinno-lib/symbol/switch.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(U9-Pad5)">
+      <node ref="U9" pin="5"/>
+    </net>
+    <net code="2" name="Net-(U9-Pad16)">
+      <node ref="U9" pin="16"/>
+    </net>
+    <net code="3" name="Net-(U9-Pad17)">
+      <node ref="U9" pin="17"/>
+    </net>
+    <net code="4" name="Net-(U9-Pad18)">
+      <node ref="U9" pin="18"/>
+    </net>
+    <net code="5" name="Net-(U9-Pad19)">
+      <node ref="U9" pin="19"/>
+    </net>
+    <net code="6" name="Net-(U9-Pad2)">
+      <node ref="U9" pin="2"/>
+    </net>
+    <net code="7" name="Net-(U9-Pad20)">
+      <node ref="U9" pin="20"/>
+    </net>
+    <net code="8" name="Net-(U9-Pad21)">
+      <node ref="U9" pin="21"/>
+    </net>
+    <net code="9" name="GND">
+      <node ref="C5" pin="2"/>
+      <node ref="K1" pin="5"/>
+      <node ref="K1" pin="MP"/>
+      <node ref="K1" pin="MP"/>
+      <node ref="U10" pin="19"/>
+      <node ref="C2" pin="2"/>
+      <node ref="C6" pin="2"/>
+      <node ref="U10" pin="29"/>
+      <node ref="U10" pin="26"/>
+      <node ref="U10" pin="20"/>
+      <node ref="C14" pin="2"/>
+      <node ref="C12" pin="2"/>
+      <node ref="C10" pin="2"/>
+      <node ref="C13" pin="2"/>
+      <node ref="R3" pin="1"/>
+      <node ref="C4" pin="2"/>
+      <node ref="C11" pin="2"/>
+      <node ref="U10" pin="40"/>
+      <node ref="U10" pin="34"/>
+      <node ref="U6" pin="25"/>
+      <node ref="U6" pin="18"/>
+      <node ref="U6" pin="20"/>
+      <node ref="U6" pin="9"/>
+      <node ref="U10" pin="45"/>
+      <node ref="U10" pin="50"/>
+      <node ref="J1" pin="1"/>
+      <node ref="R26" pin="2"/>
+      <node ref="Q1" pin="2"/>
+      <node ref="C7" pin="2"/>
+      <node ref="C8" pin="2"/>
+      <node ref="U10" pin="54"/>
+      <node ref="U10" pin="59"/>
+      <node ref="U1" pin="2"/>
+      <node ref="R8" pin="2"/>
+      <node ref="C9" pin="2"/>
+      <node ref="U7" pin="2"/>
+      <node ref="C16" pin="2"/>
+      <node ref="C18" pin="2"/>
+      <node ref="U8" pin="12"/>
+      <node ref="R9" pin="2"/>
+      <node ref="R11" pin="2"/>
+      <node ref="R1" pin="1"/>
+      <node ref="C22" pin="2"/>
+      <node ref="C21" pin="2"/>
+      <node ref="C15" pin="2"/>
+      <node ref="U2" pin="5"/>
+      <node ref="U4" pin="2"/>
+      <node ref="U4" pin="8"/>
+      <node ref="U2" pin="1"/>
+      <node ref="U9" pin="22"/>
+      <node ref="U9" pin="15"/>
+      <node ref="C3" pin="2"/>
+      <node ref="C1" pin="2"/>
+      <node ref="U5" pin="2"/>
+      <node ref="C20" pin="2"/>
+      <node ref="U3" pin="3"/>
+      <node ref="R18" pin="1"/>
+      <node ref="C19" pin="2"/>
+    </net>
+    <net code="10" name="/3V3">
+      <node ref="U6" pin="13"/>
+      <node ref="U3" pin="1"/>
+      <node ref="U2" pin="4"/>
+      <node ref="R7" pin="2"/>
+      <node ref="U4" pin="3"/>
+      <node ref="U3" pin="5"/>
+      <node ref="R6" pin="2"/>
+      <node ref="R5" pin="2"/>
+      <node ref="R4" pin="2"/>
+      <node ref="C21" pin="1"/>
+      <node ref="U6" pin="8"/>
+      <node ref="C3" pin="1"/>
+      <node ref="C1" pin="1"/>
+      <node ref="U6" pin="22"/>
+      <node ref="U8" pin="4"/>
+      <node ref="R2" pin="2"/>
+      <node ref="U5" pin="5"/>
+      <node ref="C22" pin="1"/>
+      <node ref="C11" pin="1"/>
+      <node ref="R24" pin="2"/>
+      <node ref="U9" pin="23"/>
+      <node ref="C13" pin="1"/>
+      <node ref="C15" pin="1"/>
+    </net>
+    <net code="11" name="Net-(U9-Pad3)">
+      <node ref="U9" pin="3"/>
+    </net>
+    <net code="12" name="Net-(U9-Pad4)">
+      <node ref="U9" pin="4"/>
+    </net>
+    <net code="13" name="Net-(U9-Pad6)">
+      <node ref="U9" pin="6"/>
+    </net>
+    <net code="14" name="Net-(U9-Pad9)">
+      <node ref="U9" pin="9"/>
+    </net>
+    <net code="15" name="/BH_INT">
+      <node ref="U3" pin="2"/>
+      <node ref="U10" pin="60"/>
+    </net>
+    <net code="16" name="/HP_INT0">
+      <node ref="U4" pin="7"/>
+      <node ref="U10" pin="27"/>
+    </net>
+    <net code="17" name="/HP_INT1">
+      <node ref="U10" pin="31"/>
+      <node ref="U4" pin="1"/>
+    </net>
+    <net code="18" name="Net-(U9-Pad10)">
+      <node ref="U9" pin="10"/>
+    </net>
+    <net code="19" name="Net-(U9-Pad11)">
+      <node ref="U9" pin="11"/>
+    </net>
+    <net code="20" name="Net-(U9-Pad12)">
+      <node ref="U9" pin="12"/>
+    </net>
+    <net code="21" name="Net-(U9-Pad13)">
+      <node ref="U9" pin="13"/>
+    </net>
+    <net code="22" name="/CS">
+      <node ref="U10" pin="44"/>
+      <node ref="U8" pin="7"/>
+    </net>
+    <net code="23" name="/CORE52_TX">
+      <node ref="U10" pin="30"/>
+      <node ref="U9" pin="7"/>
+    </net>
+    <net code="24" name="/CORE52_RX">
+      <node ref="U10" pin="28"/>
+      <node ref="U9" pin="8"/>
+    </net>
+    <net code="25" name="/MOSI">
+      <node ref="U10" pin="39"/>
+      <node ref="U8" pin="11"/>
+    </net>
+    <net code="26" name="/SCK">
+      <node ref="U8" pin="10"/>
+      <node ref="U10" pin="43"/>
+    </net>
+    <net code="27" name="/SENSORS_EN">
+      <node ref="U5" pin="3"/>
+      <node ref="R3" pin="2"/>
+      <node ref="U10" pin="42"/>
+    </net>
+    <net code="28" name="/RES">
+      <node ref="U8" pin="8"/>
+      <node ref="U10" pin="36"/>
+    </net>
+    <net code="29" name="Net-(U10-Pad46)">
+      <node ref="U10" pin="46"/>
+    </net>
+    <net code="30" name="Net-(U10-Pad9)">
+      <node ref="U10" pin="9"/>
+    </net>
+    <net code="31" name="Net-(U10-Pad11)">
+      <node ref="U10" pin="11"/>
+    </net>
+    <net code="32" name="/VBUS">
+      <node ref="U5" pin="1"/>
+      <node ref="U10" pin="24"/>
+      <node ref="C2" pin="1"/>
+      <node ref="U1" pin="5"/>
+      <node ref="U10" pin="2"/>
+      <node ref="U10" pin="22"/>
+    </net>
+    <net code="33" name="/CORE52_BTN">
+      <node ref="U10" pin="32"/>
+      <node ref="R24" pin="1"/>
+      <node ref="U9" pin="1"/>
+    </net>
+    <net code="34" name="Net-(C19-Pad1)">
+      <node ref="U8" pin="3"/>
+      <node ref="C20" pin="1"/>
+      <node ref="C19" pin="1"/>
+    </net>
+    <net code="35" name="Net-(R18-Pad2)">
+      <node ref="U8" pin="5"/>
+      <node ref="R18" pin="2"/>
+    </net>
+    <net code="36" name="Net-(U5-Pad4)">
+      <node ref="U5" pin="4"/>
+    </net>
+    <net code="37" name="Net-(C12-Pad1)">
+      <node ref="U6" pin="10"/>
+      <node ref="C12" pin="1"/>
+    </net>
+    <net code="38" name="Net-(U10-Pad10)">
+      <node ref="U10" pin="10"/>
+    </net>
+    <net code="39" name="Net-(U10-Pad12)">
+      <node ref="U10" pin="12"/>
+    </net>
+    <net code="40" name="Net-(U10-Pad13)">
+      <node ref="U10" pin="13"/>
+    </net>
+    <net code="41" name="Net-(U10-Pad14)">
+      <node ref="U10" pin="14"/>
+    </net>
+    <net code="42" name="Net-(U10-Pad15)">
+      <node ref="U10" pin="15"/>
+    </net>
+    <net code="43" name="Net-(U10-Pad16)">
+      <node ref="U10" pin="16"/>
+    </net>
+    <net code="44" name="Net-(U10-Pad17)">
+      <node ref="U10" pin="17"/>
+    </net>
+    <net code="45" name="Net-(U10-Pad18)">
+      <node ref="U10" pin="18"/>
+    </net>
+    <net code="46" name="/9V">
+      <node ref="D2" pin="1"/>
+      <node ref="C14" pin="1"/>
+      <node ref="D1" pin="1"/>
+      <node ref="R10" pin="2"/>
+      <node ref="U11" pin="1"/>
+      <node ref="U8" pin="2"/>
+      <node ref="C18" pin="1"/>
+      <node ref="C16" pin="1"/>
+    </net>
+    <net code="47" name="/SCL1">
+      <node ref="U10" pin="25"/>
+      <node ref="U4" pin="5"/>
+      <node ref="U2" pin="3"/>
+      <node ref="U3" pin="6"/>
+    </net>
+    <net code="48" name="/SDA1">
+      <node ref="U2" pin="2"/>
+      <node ref="U4" pin="6"/>
+      <node ref="U3" pin="4"/>
+      <node ref="U10" pin="23"/>
+    </net>
+    <net code="49" name="Net-(U10-Pad3)">
+      <node ref="U10" pin="3"/>
+    </net>
+    <net code="50" name="Net-(D2-Pad2)">
+      <node ref="U11" pin="2"/>
+      <node ref="D2" pin="2"/>
+      <node ref="Q1" pin="3"/>
+    </net>
+    <net code="51" name="/C">
+      <node ref="R5" pin="1"/>
+      <node ref="U10" pin="53"/>
+      <node ref="C6" pin="1"/>
+      <node ref="K1" pin="3"/>
+    </net>
+    <net code="52" name="/D">
+      <node ref="C7" pin="1"/>
+      <node ref="U10" pin="55"/>
+      <node ref="R6" pin="1"/>
+      <node ref="K1" pin="6"/>
+    </net>
+    <net code="53" name="/ICM_INT2">
+      <node ref="U10" pin="56"/>
+      <node ref="U6" pin="19"/>
+    </net>
+    <net code="54" name="/E">
+      <node ref="C8" pin="1"/>
+      <node ref="U10" pin="57"/>
+      <node ref="R7" pin="1"/>
+      <node ref="K1" pin="2"/>
+    </net>
+    <net code="55" name="/ICM_INT1">
+      <node ref="U6" pin="12"/>
+      <node ref="U10" pin="58"/>
+    </net>
+    <net code="56" name="Net-(U10-Pad6)">
+      <node ref="U10" pin="6"/>
+    </net>
+    <net code="57" name="Net-(U10-Pad7)">
+      <node ref="U10" pin="7"/>
+    </net>
+    <net code="58" name="Net-(U10-Pad8)">
+      <node ref="U10" pin="8"/>
+    </net>
+    <net code="59" name="/B">
+      <node ref="U10" pin="51"/>
+      <node ref="K1" pin="4"/>
+      <node ref="R4" pin="1"/>
+      <node ref="C5" pin="1"/>
+    </net>
+    <net code="60" name="/OLED_EN">
+      <node ref="U1" pin="4"/>
+      <node ref="U10" pin="33"/>
+      <node ref="R1" pin="2"/>
+    </net>
+    <net code="61" name="/DC">
+      <node ref="U8" pin="9"/>
+      <node ref="U10" pin="35"/>
+    </net>
+    <net code="62" name="Net-(U10-Pad4)">
+      <node ref="U10" pin="4"/>
+    </net>
+    <net code="63" name="/A">
+      <node ref="C4" pin="1"/>
+      <node ref="U10" pin="49"/>
+      <node ref="R2" pin="1"/>
+      <node ref="K1" pin="1"/>
+    </net>
+    <net code="64" name="Net-(U10-Pad5)">
+      <node ref="U10" pin="5"/>
+    </net>
+    <net code="65" name="/ANT">
+      <node ref="U9" pin="14"/>
+      <node ref="J1" pin="2"/>
+    </net>
+    <net code="66" name="Net-(U10-Pad41)">
+      <node ref="U10" pin="41"/>
+    </net>
+    <net code="67" name="/MCU_3V3">
+      <node ref="U10" pin="1"/>
+      <node ref="U10" pin="37"/>
+      <node ref="U10" pin="21"/>
+    </net>
+    <net code="68" name="Net-(U11-Pad3)">
+      <node ref="U11" pin="3"/>
+    </net>
+    <net code="69" name="Net-(Q1-Pad1)">
+      <node ref="R26" pin="1"/>
+      <node ref="Q1" pin="1"/>
+      <node ref="R25" pin="1"/>
+    </net>
+    <net code="70" name="/BUZZER">
+      <node ref="U10" pin="38"/>
+      <node ref="R25" pin="2"/>
+    </net>
+    <net code="71" name="/FSYNC">
+      <node ref="U6" pin="11"/>
+      <node ref="U10" pin="52"/>
+    </net>
+    <net code="72" name="/SCL">
+      <node ref="U6" pin="23"/>
+      <node ref="U10" pin="48"/>
+    </net>
+    <net code="73" name="/SDA">
+      <node ref="U10" pin="47"/>
+      <node ref="U6" pin="24"/>
+    </net>
+    <net code="74" name="Net-(U6-Pad14)">
+      <node ref="U6" pin="14"/>
+    </net>
+    <net code="75" name="Net-(U6-Pad15)">
+      <node ref="U6" pin="15"/>
+    </net>
+    <net code="76" name="Net-(U6-Pad16)">
+      <node ref="U6" pin="16"/>
+    </net>
+    <net code="77" name="Net-(U6-Pad17)">
+      <node ref="U6" pin="17"/>
+    </net>
+    <net code="78" name="Net-(U6-Pad2)">
+      <node ref="U6" pin="2"/>
+    </net>
+    <net code="79" name="Net-(U6-Pad21)">
+      <node ref="U6" pin="21"/>
+    </net>
+    <net code="80" name="Net-(U6-Pad3)">
+      <node ref="U6" pin="3"/>
+    </net>
+    <net code="81" name="Net-(U6-Pad4)">
+      <node ref="U6" pin="4"/>
+    </net>
+    <net code="82" name="Net-(U6-Pad5)">
+      <node ref="U6" pin="5"/>
+    </net>
+    <net code="83" name="Net-(U6-Pad6)">
+      <node ref="U6" pin="6"/>
+    </net>
+    <net code="84" name="Net-(U6-Pad7)">
+      <node ref="U6" pin="7"/>
+    </net>
+    <net code="85" name="/IREF">
+      <node ref="U8" pin="6"/>
+      <node ref="R9" pin="1"/>
+    </net>
+    <net code="86" name="Net-(U6-Pad1)">
+      <node ref="U6" pin="1"/>
+    </net>
+    <net code="87" name="Net-(R10-Pad1)">
+      <node ref="R10" pin="1"/>
+      <node ref="U7" pin="3"/>
+      <node ref="R11" pin="1"/>
+    </net>
+    <net code="88" name="Net-(D1-Pad2)">
+      <node ref="U7" pin="1"/>
+      <node ref="D1" pin="2"/>
+      <node ref="L1" pin="2"/>
+    </net>
+    <net code="89" name="Net-(R8-Pad1)">
+      <node ref="U1" pin="3"/>
+      <node ref="R8" pin="1"/>
+    </net>
+    <net code="90" name="Net-(C10-Pad1)">
+      <node ref="L1" pin="1"/>
+      <node ref="U7" pin="5"/>
+      <node ref="U7" pin="4"/>
+      <node ref="U1" pin="1"/>
+      <node ref="C10" pin="1"/>
+      <node ref="C9" pin="1"/>
+    </net>
+    <net code="91" name="Net-(U7-Pad6)">
+      <node ref="U7" pin="6"/>
+    </net>
+    <net code="92" name="Net-(U8-Pad1)">
+      <node ref="U8" pin="1"/>
+    </net>
+    <net code="93" name="Net-(U8-Pad13)">
+      <node ref="U8" pin="13"/>
+    </net>
+    <net code="94" name="Net-(U2-Pad6)">
+      <node ref="U2" pin="6"/>
+    </net>
+    <net code="95" name="Net-(U4-Pad4)">
+      <node ref="U4" pin="4"/>
+    </net>
+  </nets>
+</export>
